@@ -1,9 +1,6 @@
 export const products = [
     
     
-    
-    
-    
     {
       id: 1,
       img: "https://static.wixstatic.com/media/311dce_09dd46729e0e4ef1a1459e6ea6ed0476~mv2.png/v1/fill/w_674,h_778,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/311dce_09dd46729e0e4ef1a1459e6ea6ed0476~mv2.png",
